@@ -1,0 +1,6 @@
+$semantic-root-element: "body div:first-child";
+@import '@picocss/pico/scss/pico';
+
+body {
+  margin: 0;
+}
